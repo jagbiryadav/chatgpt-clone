@@ -2,7 +2,7 @@
 
 A responsive, feature-rich ChatGPT-like interface built with HTML, CSS, and JavaScript. This project mimics the core functionality of ChatGPT with a modern UI, chat history, file attachments, and both simulated and real AI responses via the Gemini API.
 
-![ChatGPT Clone Screenshot](images/screenshot.png)
+![ChatGPT Clone Screenshot](images/screenshots.png)
 
 ## Features
 
@@ -18,10 +18,10 @@ A responsive, feature-rich ChatGPT-like interface built with HTML, CSS, and Java
 ## Screenshots
 
 ### Light Mode
-![ChatGPT Clone Light Mode](screenshots/light-mode.png)
+![ChatGPT Clone Light Mode](screenshots/lightmode.png)
 
 ### Dark Mode
-![ChatGPT Clone Dark Mode](screenshots/dark-mode.png)
+![ChatGPT Clone Dark Mode](screenshots/darkmode.png)
 
 ## Getting Started
 
