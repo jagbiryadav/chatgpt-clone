@@ -15,6 +15,14 @@ A responsive, feature-rich ChatGPT-like interface built with HTML, CSS, and Java
 - 📱 **Responsive Design** - Works on all device sizes
 - 🔒 **Client-side Storage** - All data stored locally in your browser
 
+## Screenshots
+
+### Light Mode
+![ChatGPT Clone Light Mode](screenshots/light-mode.png)
+
+### Dark Mode
+![ChatGPT Clone Dark Mode](screenshots/dark-mode.png)
+
 ## Getting Started
 
 ### Prerequisites
@@ -72,6 +80,21 @@ chatgpt-clone/
 - Message composer with file attachment support
 - Profile settings modal
 - Onboarding screen
+
+### Theme Support
+The application features both light and dark themes for user preference:
+
+**Light Mode**
+- Clean, modern interface with light background
+- Dark text for optimal readability
+- Subtle borders and shadows for depth
+
+**Dark Mode**
+- Eye-friendly dark theme for low-light environments
+- Light text on dark background
+- Reduced eye strain during extended use
+
+Toggle between themes using `Ctrl+D` or through the profile settings menu.
 
 ### Core Functionality
 - Chat management (create, rename, delete)
